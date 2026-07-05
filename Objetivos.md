@@ -8,4 +8,4 @@
 
 5. Usar la version mas reciente de Python.
 
-6. Usar UV para manejar proyectos
+6. Usar UV para manejar proyectos.
